@@ -1,72 +1,7 @@
 {
-  "image": {
-    "name":"印象",
-    "curPos":"/自动导入文件夹/clothesRes/主线装扮相关资源/时装印像动画/",
-    "movePos":"./assets/resources-atlas/effect/image/"
-  },
-  "halo": {
-    "name":"光环",
-    "curPos":"/自动导入文件夹/clothesRes/主线装扮相关资源/时装光环动画/",
-    "movePos":"./assets/resources-atlas/effect/halo/"
-  },
-  "hores": {
-    "name":"坐骑",
-    "curPos":"/自动导入文件夹/clothesRes/主线装扮相关资源/时装马动画/",
-    "movePos":"./assets/resources-atlas/effect/hores/"
-  },
-  "wing": {
-    "name":"翅膀",
-    "curPos":"/自动导入文件夹/clothesRes/主线装扮相关资源/时装翅膀动画/",
-    "movePos":"./assets/resources-atlas/effect/wing/"
-  },
-  "clothes": {
-    "name":"武器动画",
-    "curPos":"/自动导入文件夹/clothesRes/主线装扮相关资源/时装武器动画/",
-    "movePos":"./assets/resources-atlas/effect/clothes/"
-  },
-  "clothesBoxOpen": {
-    "name":"主题开箱动画",
-    "curPos":"/自动导入文件夹/clothesRes/主线装扮相关资源/时装箱子动画/open/",
-    "movePos":"./assets/resourcesBundle/resources-theme/effect/"
-  },
-  "clothesBoxFashion": {
-    "name":"时装开箱动画",
-    "curPos":"/自动导入文件夹/clothesRes/主线装扮相关资源/时装箱子动画/fashion/",
-    "movePos":"./assets/resourcesBundle/resources-clothes/effect/"
-  },
-  "headBoxEffect":{
-    "name":"头像框开箱动画",
-    "curPos":"/自动导入文件夹/clothesRes/主线装扮相关资源/时装头像框/头像框动画/",
-    "movePos":"./assets/resourcesBundle/resources-clothes/effect/"
-  },
-  "headBoxImage ":{
-    "name":"主题资源不包括箱子",
-    "curPos":"/自动导入文件夹/clothesRes/主线装扮相关资源/主题相关资源不包括箱子/",
-    "movePos":"./assets/resourcesBundle/resources-theme/altas/uimain/"
-  },
-  "clothesResSlice":{
-    "name":"时装切片",
-    "curPos":"/自动导入文件夹/clothesRes/主线装扮相关资源/时装切片/",
-    "movePos":"./assets/resourcesBundle/resources-clothes/altas/"
-  },
-  "clothesResBoxIcon":{
-    "name":"时装箱子icon",
-    "curPos":"/自动导入文件夹/clothesRes/主线装扮相关资源/时装箱子icon/",
-    "movePos":"./assets/resourcesBundle/resources-clothes/altas/"
-  },
-  "manorClothesRes":{
-    "name":"情缘icon",
-    "curPos":"/自动导入文件夹/clothesRes/情缘装扮相关资源/情缘icon/",
-    "movePos":"./assets/resourcesBundle/resources-manorClothes/altas/"
-  },
-  "manorClothesResSlice":{
-    "name":"情缘切片",
-    "curPos":"/自动导入文件夹/clothesRes/情缘装扮相关资源/情缘切片/",
-    "movePos":"./assets/resourcesBundle/resources-manorClothes/altas/map/"
-  },
-  "manorClothesResSkeleton":{
-    "name":"情缘动画",
-    "curPos":"/自动导入文件夹/clothesRes/情缘装扮相关资源/情缘动画/",
-    "movePos":"./assets/resourcesBundle/resources-manorClothes/effect/"
+  "test": {
+    "name":"测试",
+    "curPos":"当前路径",
+    "movePos":"./要移动的位置"
   }
 }
